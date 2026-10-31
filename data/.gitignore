@@ -1,8 +1,8 @@
-# bin/
-# data/data.txt
-# .gitignore
-# *.jpg
-# *.png
+bin/
+data/data.txt
+.gitignore
+*.jpg
+*.png
 
-config.txt
-logs/
+# config.txt
+# logs/
